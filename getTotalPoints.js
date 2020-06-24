@@ -10,8 +10,10 @@
 
 // Periodic points update
 var i = setInterval(function() {
-    updatePlayerPoints(0);
-    updatePlayerPoints(1);
+    let board = document.getElementById("player_boards");
+    for (let player = 0; player < board.children.length; player++) {
+      updatePlayerPoints(player);
+    }
 }, 2000);
 
 
