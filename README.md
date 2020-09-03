@@ -13,7 +13,7 @@ This plugin keeps track of the players total points: it counts the points gained
 ### Try it once
 
 You can copy paste the javascript code in your browser during the game:  
-1/ Copy the JS code from [here](https://github.com/ymougenel/bga-diceforge-plugin/blob/develop/getTotalPoints.js)
+1/ Copy the JS code from [here](https://github.com/ymougenel/bga-diceforge-plugin/blob/develop/getTotalPoints.js)  
 2/ Switch to your dice forge tab  
 3/ <kbd>F12</kbd>  
 4/ Select the 'console' option tab  
